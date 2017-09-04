@@ -1,0 +1,1 @@
+g++ -o main main.cpp can.cpp -O2 -lgdi32

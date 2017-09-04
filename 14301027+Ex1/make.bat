@@ -1,0 +1,1 @@
+g++ -o test.exe test.cpp -O2 -lgdi32
